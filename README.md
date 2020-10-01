@@ -18,7 +18,7 @@ Download <a href='https://github.com/drorshalev/easypeasy/raw/master/easy-peasy-
 <br />
 <p align="center">
   <a href="https://github.com/drorshalev/easypeasy">
-    <img src="https://drorshalev.com/dev/easypeasy/Easy-Peasy.png" alt="Easy-Peasy" width=300 >
+    <img src="https://drorshalev.com/dev/easypeasy/Easy-Peasy.png" alt="Easy-Peasy" width=300	 >
   </a>
 
   <h3 align="center">Easypeasy</h3>
