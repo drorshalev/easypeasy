@@ -1,9 +1,9 @@
-<p align="left">
+<!--<p align="left">
   <a href="https://github.com/drorshalev/easypeasy">
     <img src="https://drorshalev.com/dev/easypeasy/Easy-Peasy.png" width=300 alt="Easy-Peasy" >
   </a>
   </p>
-
+-->
 ## Any kind of advertising identifier tracking damage your privacy ##
 
 
