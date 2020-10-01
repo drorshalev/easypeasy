@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://github.com/drorshalev/easypeasy">
-    <img src="https://drorshalev.com/dev/easypeasy/Easy-Peasy.png" alt="Easy-Peasy" >
+    <img src="https://drorshalev.com/dev/easypeasy/Easy-Peasy.png" width=300 alt="Easy-Peasy" >
   </a>
   </p>
 # easypeasy
