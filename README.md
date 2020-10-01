@@ -4,7 +4,7 @@
   </a>
   </p>
 #easypeasy
-easypeasy - help you to check for Advertising Identifier presents in your device 
+
  
  
  
@@ -17,44 +17,34 @@ Download <a href='https://github.com/drorshalev/easypeasy/raw/master/easy-peasy-
 
 ## Any kind of advertising identifier tracking damage your privacy ##
 
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
 
 
+Download <a href='https://github.com/drorshalev/easypeasy/raw/master/easy-peasy-v1.1.11.apk'>easy-peasy-v1.1.11.apk</a>
 
 
-
-<!-- PROJECT SHIELDS -->
- 
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/drorshalev/easypeasy">
     <img src="https://drorshalev.com/dev/easypeasy/Easy-Peasy.png" alt="Easy-Peasy" >
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Easypeasy</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+      help you to check for Advertising Identifier presents in your device 
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/drorshalev/easypeasy/raw/master/easy-peasy-v1.1.11.apk">Download</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/drorshalev/easypeasy/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/drorshalev/easypeasy/issues">Request Feature</a>
   </p>
 </p>
 
@@ -82,6 +72,10 @@ Download <a href='https://github.com/drorshalev/easypeasy/raw/master/easy-peasy-
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+<!-- PROJECT SHIELDS -->
+ 
+
+
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
 Here's why:
@@ -103,33 +97,11 @@ To get a local copy up and running follow these simple example steps.
 
 1. Download at [https://example.com](https://example.com)
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
- 
-
-
-
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
  
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/drorshalev
 [product-screenshot]: images/screenshot.png
