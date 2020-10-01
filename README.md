@@ -18,7 +18,7 @@ Download <a href='https://github.com/drorshalev/easypeasy/raw/master/easy-peasy-
 <br />
 <p align="center">
   <a href="https://github.com/drorshalev/easypeasy">
-    <img src="https://drorshalev.com/dev/easypeasy/Easy-Peasy.png" alt="Easy-Peasy" >
+    <img src="https://drorshalev.com/dev/easypeasy/Easy-Peasy.png" alt="Easy-Peasy" width=300 >
   </a>
 
   <h3 align="center">Easypeasy</h3>
@@ -36,25 +36,6 @@ Download <a href='https://github.com/drorshalev/easypeasy/raw/master/easy-peasy-
     <a href="https://github.com/drorshalev/easypeasy/issues">Request Feature</a>
   </p>
 </p>
-
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
