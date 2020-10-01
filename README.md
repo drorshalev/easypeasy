@@ -1,3 +1,8 @@
+<p align="left">
+  <a href="https://github.com/drorshalev/easypeasy">
+    <img src="https://drorshalev.com/dev/easypeasy/Easy-Peasy.png" alt="Easy-Peasy" >
+  </a>
+  </p>
 # easypeasy
 easypeasy - help you to check for Advertising Identifier presents in your device 
  
@@ -34,7 +39,7 @@ Download <a href='https://github.com/drorshalev/easypeasy/raw/master/easy-peasy-
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://easypeasymortgages.nz/wp-content/uploads/2018/03/Easy-Peasy-CMYK-retna.png" alt="Logo" >
+    <img src="https://drorshalev.com/dev/easypeasy/Easy-Peasy.png" alt="Easy-Peasy" >
   </a>
 
   <h3 align="center">Best-README-Template</h3>
